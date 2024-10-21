@@ -34,7 +34,7 @@ AGENDADOR DE TAREFAS - TAREFAS
 Criar o banco de dados NoSQL db_agendador no MongoDB (concluída)
 Criar o esqueleto do projeto no Spring (concluída)
 Criar o repositório agendador no GitHub (concluída)
-Criar o Security
+Criar o Security (concluída)
 Criar método:
 - Post/cadastrar tarefas
 - Get/buscar tarefas

@@ -36,7 +36,7 @@ Criar o esqueleto do projeto no Spring (concluída)
 Criar o repositório agendador no GitHub (concluída)
 Criar o Security (concluída)
 Criar método:
-- Post/cadastrar tarefas
+- Post/cadastrar tarefas (concluída)
 - Get/buscar tarefas
 - Put/alterar tarefas
 - Patch/alterar status das tarefas

@@ -37,7 +37,9 @@ Criar o repositório agendador no GitHub (concluída)
 Criar o Security (concluída)
 Criar método:
 - Post/cadastrar tarefas (concluída)
-- Get/buscar tarefas
+- Get/buscar tarefas por:
+> data (concluída)
+> email (concluída)
 - Put/alterar tarefas
 - Patch/alterar status das tarefas
 - Delete/excluir tarefas
